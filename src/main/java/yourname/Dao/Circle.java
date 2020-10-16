@@ -7,6 +7,7 @@ class Circle extends Shape {
         Circle circle = new Circle("purple", 3.14);
 
         System.out.println(circle.area());
+        //test
 
     }
     public Circle(String color,double radius) {
