@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  hi:
+    build: .
+    ports: [ '8080:8080' ]
+
+
+
+
+#  To run this image
+#  docker-compose up
